@@ -1,5 +1,12 @@
 # Skeleton - Basic JS
 
-- index.html
-- styles/styles.css
-- js/main.js
+## Composition
+
+- `index.html`
+- `styles.css`
+- `main.js`
+
+## Utilisation
+```
+git clone https://github.com/Bricefed/Skeleton---Basic-JS.git <newName>
+```
